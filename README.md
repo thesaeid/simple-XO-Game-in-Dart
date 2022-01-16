@@ -1,2 +1,3 @@
 # simple-XO-Game-in-Dart
-Simple CLI XO Game.
+a Simple CLI XO Game Written in Dart lang.
+This is a Good practice for begginers in any language.
